@@ -4,3 +4,8 @@ co_top10.csv
 pagerank_best_top10.csv
 pagerank_correlations.csv
 pagerank_worst_top10.csv
+topic_sensitive_pagerank_hashing.csv
+topic_sensitive_pagerank_search.csv
+topic_sensitive_pagerank_streaming.csv
+topic_sensitive_pagerank_timeseries.csv
+topic_sensitive_pagerank_security.csv
